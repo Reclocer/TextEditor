@@ -93,8 +93,6 @@ namespace Text_Editor_0._1
             OutputTextBox.Text = text;
         }
 
-
-
         #endregion
 
         private void FinalEditBtn_Click(object sender, EventArgs e)
