@@ -29,10 +29,6 @@ namespace Text_Editor_0._1
                 text = text.Trim();
             }
 
-
-
-
-
             this.OutputTextBox.Text = text;
         }        
 
